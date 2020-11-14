@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">  
+  <head>    
+    <title>Bienvenido</title>    
+    <meta charset="UTF-8">
+    <meta name="title" content="Título de la WEB">
+    <meta name="description" content="Descripción de la WEB">    
+     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css"    
+  </head>  
+  <body>    
+    <header>
+      <h1>Título de la WEB</h1>      
+    </header>    
+  
+    <footer>
+      <h4>Redes sociales</h4>
+      <a href="https://twitter.com/torrez_oscar">Mi twitter</a>
+       <a href="https://www.linkedin.com/in/oscartorrez">Mi linkedin</a>
+        <a href="https://www.instagram.com/oscar_torrez79/">Mi Instagram</a>
+    </footer>
+  </body>  
+</html>
